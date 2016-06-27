@@ -1,0 +1,9 @@
+D:\My\projectcode\KMP\KMP\bin\Debug\KMP.exe
+D:\My\projectcode\KMP\KMP\bin\Debug\KMP.pdb
+D:\My\projectcode\KMP\KMP\bin\Debug\KMP.xml
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.Form1.resources
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.Resources.resources
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.vbproj.GenerateResource.Cache
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.exe
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.xml
+D:\My\projectcode\KMP\KMP\obj\x86\Debug\KMP.pdb
